@@ -51,3 +51,6 @@ const showRecipe = async function () {
   }
 };
 showRecipe();
+
+// 288 Rendering the Recipe
+console.log(`---------- 288 Rendering the Recipe ----------`);
