@@ -197,3 +197,6 @@ console.log(
 // same as these two lines
 // window.addEventListener('hashchange', showRecipe);
 // window.addEventListener('load', showRecipe);
+
+// 290 The MVC Architecture
+console.log(`---------- 290 The MVC Architecture ----------`);
