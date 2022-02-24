@@ -27,6 +27,7 @@ console.log(`---------- 287 Loading a Recipe from API ----------`);
 // 2. npm i parcel@2 -D (install parcel) (install latest version npm i parcel -D)
 // 3. npm run start (start parcel) (arba be run -> npm start)
 // 4. npm install (jei kazko truksta arba klaidos)
+// 5. // npm i core-js regenerator-runtime (182)
 
 const renderSpiner = function (parentEl) {
   const markup = `
@@ -179,3 +180,8 @@ showRecipe();
 console.log(`---------- 288 Rendering the Recipe ----------`);
 
 // npm i core-js regenerator-runtime
+
+// 289 Listening For load and hashchange Events
+console.log(
+  `---------- 289 Listening For load and hashchange Events ----------`
+);
