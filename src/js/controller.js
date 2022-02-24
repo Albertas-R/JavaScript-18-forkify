@@ -198,5 +198,5 @@ console.log(
 // window.addEventListener('hashchange', showRecipe);
 // window.addEventListener('load', showRecipe);
 
-// 290 The MVC Architecture
-console.log(`---------- 290 The MVC Architecture ----------`);
+// 291 Refactoring for MVC
+console.log(`---------- 291 Refactoring for MVC ----------`);
