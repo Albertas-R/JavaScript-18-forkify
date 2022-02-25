@@ -62,5 +62,5 @@ console.log(
 // window.addEventListener('hashchange', controlRecipes);
 // window.addEventListener('load', controlRecipes);
 
-// 291 Refactoring for MVC
-console.log(`---------- 291 Refactoring for MVC ----------`);
+// 292 Helpers and Configuration Files
+console.log(`---------- 292 Helpers and Configuration Files ----------`);
