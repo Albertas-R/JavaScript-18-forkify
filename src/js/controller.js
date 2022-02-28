@@ -54,5 +54,7 @@ console.log(
 // window.addEventListener('hashchange', controlRecipes);
 // window.addEventListener('load', controlRecipes);
 
-// 292 Helpers and Configuration Files
-console.log(`---------- 292 Helpers and Configuration Files ----------`);
+// 293 Event Handlers in MVC_ Publisher-Subscriber Pattern
+console.log(
+  `---------- 293 Event Handlers in MVC_ Publisher-Subscriber Pattern ----------`
+);
