@@ -3,7 +3,7 @@ import icons from 'url:../../img/icons.svg'; // Parcel 2
 // added in html 14 -> type="module" because was error
 // console.log(icons);
 import { Fraction } from 'fractional';
-console.log(Fraction);
+// console.log(Fraction);
 
 class RecipeView {
   #parentElement = document.querySelector('.recipe');
