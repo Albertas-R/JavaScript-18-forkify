@@ -42,7 +42,7 @@ const init = function () {
 };
 init();
 
-// 293 Event Handlers in MVC_ Publisher-Subscriber Pattern
+// 294 Implementing Error and Success Messages
 console.log(
-  `---------- 293 Event Handlers in MVC_ Publisher-Subscriber Pattern ----------`
+  `---------- 294 Implementing Error and Success Messages ----------`
 );
