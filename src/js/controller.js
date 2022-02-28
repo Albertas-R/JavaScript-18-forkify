@@ -42,7 +42,5 @@ const init = function () {
 };
 init();
 
-// 294 Implementing Error and Success Messages
-console.log(
-  `---------- 294 Implementing Error and Success Messages ----------`
-);
+// 295 Implementing Search Results - Part 1
+console.log(`---------- 295 Implementing Search Results - Part 1 ----------`);
