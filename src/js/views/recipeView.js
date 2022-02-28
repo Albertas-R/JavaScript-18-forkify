@@ -20,7 +20,7 @@ class RecipeView {
     this.#parentElement.innerHTML = ''; // emptying container
   }
 
-  renderSpiner = function () {
+  renderSpinner = function () {
     const markup = `
       <div class="spinner">
         <svg>
@@ -31,6 +31,15 @@ class RecipeView {
     this.#parentElement.innerHTML = '';
     this.#parentElement.insertAdjacentHTML('afterbegin', markup);
   };
+
+  addHandlerRender(handler) {
+    ['hashchange', 'load'].forEach(event =>
+      window.addEventListener(event, handler)
+    );
+    // same as these two lines
+    // window.addEventListener('hashchange', controlRecipes);
+    // window.addEventListener('load', controlRecipes);
+  }
 
   #generateMarkup() {
     return `

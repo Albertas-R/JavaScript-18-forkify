@@ -25,10 +25,10 @@ const controlRecipes = async function () {
     console.log(id);
 
     if (!id) return;
-    recipeView.renderSpiner();
+    recipeView.renderSpinner();
 
     // 1) Loading recipe
-    await model.loadRecipe(id);
+    await model.loadRecipe(id); // getting acsess to model.state.recipe
 
     // 2) Rendering recipe
     recipeView.render(model.state.recipe);
@@ -37,22 +37,10 @@ const controlRecipes = async function () {
   }
 };
 
-// 288 Rendering the Recipe
-console.log(`---------- 288 Rendering the Recipe ----------`);
-
-// npm i core-js regenerator-runtime
-
-// 289 Listening For load and hashchange Events
-console.log(
-  `---------- 289 Listening For load and hashchange Events ----------`
-);
-
-['hashchange', 'load'].forEach(event =>
-  window.addEventListener(event, controlRecipes)
-);
-// same as these two lines
-// window.addEventListener('hashchange', controlRecipes);
-// window.addEventListener('load', controlRecipes);
+const init = function () {
+  recipeView.addHandlerRender(controlRecipes);
+};
+init();
 
 // 293 Event Handlers in MVC_ Publisher-Subscriber Pattern
 console.log(
