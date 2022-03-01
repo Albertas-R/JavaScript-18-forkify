@@ -56,5 +56,5 @@ const init = function () {
 };
 init();
 
-// 295 Implementing Search Results - Part 1
-console.log(`---------- 295 Implementing Search Results - Part 1 ----------`);
+// 296 Implementing Search Results - Part 2
+console.log(`---------- 296 Implementing Search Results - Part 2 ----------`);
