@@ -65,5 +65,5 @@ const init = function () {
 };
 init();
 
-// 296 Implementing Search Results - Part 2
-console.log(`---------- 296 Implementing Search Results - Part 2 ----------`);
+// 297 Implementing Pagination - Part 1
+console.log(`---------- 297 Implementing Pagination - Part 1 ----------`);
