@@ -66,5 +66,5 @@ const init = function () {
 };
 init();
 
-// 297 Implementing Pagination - Part 1
-console.log(`---------- 297 Implementing Pagination - Part 1 ----------`);
+// 298 Implementing Pagination - Part 2
+console.log(`---------- 298 Implementing Pagination - Part 2 ----------`);
