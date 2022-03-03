@@ -5,13 +5,50 @@ export default class View {
   _data;
 
   render(data) {
-    if (!data || (Array.isArray(data) && data.length === 0))
-      return this.renderError();
+    // if (!data || (Array.isArray(data) && data.length === 0))
+    //   return this.renderError();
 
     this._data = data;
     const markup = this._generateMarkup();
     this._clear();
     this._parentElement.insertAdjacentHTML('afterbegin', markup);
+  }
+
+  update(data) {
+    if (!data || (Array.isArray(data) && data.length === 0))
+      return this.renderError();
+
+    this._data = data;
+    const newMarkup = this._generateMarkup();
+
+    const newDOM = document.createRange().createContextualFragment(newMarkup);
+    const newElements = Array.from(newDOM.querySelectorAll('*')); // newDOM.querySelectorAll('*') -- returning NodeList, so to convert to array use Array.from
+    const currentElements = Array.from(
+      this._parentElement.querySelectorAll('*')
+    ); // this._parentElement.querySelectorAll('*') -- returning NodeList
+
+    newElements.forEach((newEl, i) => {
+      const curEl = currentElements[i];
+      console.log(curEl, newEl.isEqualNode(curEl)); // isEqualNode
+
+      // Updates changed TEXT
+      if (
+        !newEl.isEqualNode(curEl) &&
+        newEl.firstChild?.nodeValue.trim() !== ''
+      ) {
+        // console.log('💥', newEl.firstChild.nodeValue.trim());
+        curEl.textContent = newEl.textContent;
+      }
+
+      // Updates changed ATTRIBUTES
+      if (!newEl.isEqualNode(curEl)) {
+        // console.log(newEl.attributes);
+        console.log(Array.from(newEl.attributes));
+        Array.from(newEl.attributes).forEach(attr =>
+          curEl.setAttribute(attr.name, attr.value)
+        );
+      }
+    });
   }
 
   _clear() {
