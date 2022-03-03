@@ -105,5 +105,5 @@ const init = function () {
 };
 init();
 
-// 302 Implementing Bookmarks - Part 1
-console.log(`---------- 302 Implementing Bookmarks - Part 1 ----------`);
+// 303 Implementing Bookmarks - Part 2
+console.log(`---------- 303 Implementing Bookmarks - Part 2 ----------`);
