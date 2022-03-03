@@ -91,5 +91,5 @@ const init = function () {
 };
 init();
 
-// 300 Updating Recipe Servings
-console.log(`---------- 300 Updating Recipe Servings ----------`);
+// 301 Developing a DOM Updating Algorithm
+console.log(`---------- 301 Developing a DOM Updating Algorithm ----------`);
