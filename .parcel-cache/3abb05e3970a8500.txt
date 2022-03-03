@@ -1,4 +1,4 @@
-7237
+7239
 89C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\nan\doc\errors.md132900757804055401 0
 92C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\stable\stable.min.js132900757799289112 0
 82C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\color-name132900757798759525 1
@@ -56,7 +56,7 @@
 94C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\l10n\index.js132900757799578885 0
 97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\error\index.js132900995918557051 0
 101C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\nanoid\async\index.browser.js132900757800817922 0
-63C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist132906163728366449 1
+63C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist132907274147078242 1
 118C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-selector-parser\dist\selectors\root.js132900757803176086 0
 100C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\domhandler\lib\node.d.ts.map132900757799938605 0
 107C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\type-fest\source\readonly-deep.d.ts132900757803815587 0
@@ -93,6 +93,14 @@
 103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\regions\SC.js132900757817804713 0
 103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\yaml\browser\types\timestamp.js132900757804654934 0
 87C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\forkify-flowchart-part-2.png132811135370000000 0
+78C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\sass\_base.scss132902025951442896 0
+110C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\esnext.iterator.map.js132900995901108594 0
+97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\csso\lib\clean\Comment.js132900757802366716 0
+83C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\ansi-styles132900757799209179 1
+103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\regions\KP.js132900757814487280 0
+81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\immutable132900765434941452 1
+76C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\index.e37f48ea.js132906172038688521 0
+112C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\function\is-callable.js132900995920925222 0
 117C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\features\matchesselector.js132900757814846996 0
 111C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\object\from-entries.js132900995913477342 0
 123C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\features\subresource-integrity.js132900757818963792 0
@@ -171,14 +179,10 @@
 94C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\normalize-path\LICENSE132900765433748724 0
 83C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss\lib132900757805244481 1
 67C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\sass132900748712300743 1
-78C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\sass\_base.scss132902025951442896 0
-110C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\esnext.iterator.map.js132900995901108594 0
-97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\csso\lib\clean\Comment.js132900757802366716 0
-83C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\ansi-styles132900757799209179 1
 94C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-calc\README.md132900757801937050 0
 80C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\sass\_header.scss132901641758683483 0
 106C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\entities\lib\decode_codepoint.d.ts132900757803116133 0
-81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\sass\_preview.scss132906012793756530 0
+81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\sass\_preview.scss132906434319088391 0
 80C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\sass\_recipe.scss132901654264948033 0
 101C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\stable\instance\at.js132900995880321638 0
 84C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\browserslist132900757801297548 1
@@ -228,7 +232,7 @@
 104C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\instance\ends-with.js132900995888110410 0
 86C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\nanoid\LICENSE132900757797059193 0
 95C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\csso\lib\clean\utils.js132900757805044631 0
-75C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\config.js132906163967604114 0
+75C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\config.js132906210924282351 0
 108C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\esnext.map.reduce.js132900995902348218 0
 123C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-selector-parser\dist\selectors\attribute.js132900757798060077 0
 128C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\package-manager\test\fixtures\has-foo\subpackage132900757804874764 1
@@ -236,7 +240,7 @@
 113C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\plugins\removeUnknownsAndDefaults.js132900757805714113 0
 121C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\es.symbol.is-concat-spreadable.js132900995896973503 0
 111C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\core\lib\dumpGraphToGraphViz.js132900757805804046 0
-79C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\controller.js132906165433614548 0
+79C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\controller.js132906209467427279 0
 86C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\node-addon-api132900757802966246 1
 105C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\internals\not-a-regexp.js132900995931067305 0
 97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\msgpackr-extract\index.js132900757798979352 0
@@ -250,7 +254,7 @@
 126C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\dom-serializer\node_modules\entities\lib\maps\xml.json132900757801237596 0
 103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\regions\HN.js132900757812029191 0
 115C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\actual\string\virtual\trim-start.js132900995948588197 0
-74C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\model.js132906165469262739 0
+74C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\model.js132906176292862672 0
 101C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@swc\helpers\src\_decorate.js132900757806813255 0
 96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-svgo\LICENSE-MIT132900757797079178 0
 116C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\lmdb\prebuilds\win32-x64\electron.abi99.node132900757809411230 0
@@ -263,11 +267,8 @@
 91C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\logger\test132900757799089266 1
 101C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\weak-lru-cache\dist\index.cjs132900757797219068 0
 124C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\features\css-boxdecorationbreak.js132900757807722542 0
-71C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\views132905921211263670 1
+71C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\views132906179663745452 1
 105C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\stable\aggregate-error.js132900995876534597 0
-107C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\css\properties.schema.json132900757802806374 0
-86C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\views\resultsView.js132906013499242426 0
-119C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-normalize-timing-functions\src\index.js132900757797770293 0
 88C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\nanoid\index.cjs132900757799409017 0
 130C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\terser\node_modules\source-map\lib\source-map-generator.js132900757802556567 0
 85C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\views\searchView.js132906022486372133 0
@@ -280,6 +281,19 @@
 99C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\css\selectors.json132900757802996223 0
 97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\htmlparser2\lib\Parser.js132900757799029317 0
 100C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\timsort\build\timsort.min.js132900757800248367 0
+90C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\runtime-js132900757804744870 1
+107C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\plugins\removeScriptElement.js132900757805514266 0
+127C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js132900757799229158 0
+96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\array\from.js132900995913517302 0
+86C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\dom-serializer132900757799998559 1
+97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-api\dist\utils.js132900757799838684 0
+103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\regions\AI.js132900757802056959 0
+91C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\is-arrayish\LICENSE132900757798839462 0
+108C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\es.symbol.species.js132900995897043448 0
+89C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\views\paginationView.js132906212213262563 0
+107C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\css\properties.schema.json132900757802806374 0
+86C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\views\resultsView.js132906013499242426 0
+119C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-normalize-timing-functions\src\index.js132900757797770293 0
 119C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\csso\lib\restructure\prepare\processSelector.js132900757804594981 0
 84C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\plugins132900757806143779 1
 79C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\src\js\views\View.js132906034030256778 0
@@ -434,11 +448,6 @@
 108C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\es.typed-array.of.js132900995897513086 0
 108C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\watcher\src\watchman\BSER.hh132900757802766406 0
 83C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\detect-libc132900757799728770 1
-90C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\runtime-js132900757804744870 1
-107C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\plugins\removeScriptElement.js132900757805514266 0
-127C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\react-refresh\cjs\react-refresh-babel.production.min.js132900757799229158 0
-96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\array\from.js132900995913517302 0
-86C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\dom-serializer132900757799998559 1
 82C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\domhandler132900757800128459 1
 98C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\cssnano-preset-default\src132900757797650386 1
 88C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\lmdb\external.js132900757807712548 0
@@ -522,8 +531,6 @@
 89C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\yaml\parse-cst.js132900757803345951 0
 96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\json\index.js132900995918597019 0
 83C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\htmlparser2132900757801587323 1
-103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\regions\KP.js132900757814487280 0
-81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\immutable132900765434941452 1
 120C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-selector-parser\dist\selectors\pseudo.js132900757802986230 0
 84C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\import-fresh132900757799139235 1
 91C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\workers\src132900757804844789 1
@@ -786,8 +793,6 @@
 116C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\reflect\get-prototype-of.js132900995914806295 0
 102C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-normalize-repeat-style132900757799419010 1
 125C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\stable\reflect\get-own-property-descriptor.js132900995914666406 0
-93C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\lib\svgo-node.js132900757806293658 0
-114C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\internals\string-pad-webkit-bug.js132900995942502930 0
 96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-normalize-string132900757798849453 1
 94C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\immutable\package.json132900765434941452 0
 106C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\stable\typed-array\find.js132900995910289812 0
@@ -822,7 +827,7 @@
 96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-unique-selectors132900757798849453 1
 104C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\plugins\_applyTransforms.js132900757798699582 0
 109C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\typed-array\every.js132900995906629096 0
-81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.e37f48ea.js132906163728326489 0
+81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.e37f48ea.js132907097404015961 0
 110C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\terser\node_modules\source-map\LICENSE132900757798459757 0
 92C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\is-glob\package.json132900765433748724 0
 80C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\posthtml132900757800328305 1
@@ -1722,6 +1727,8 @@
 103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\domutils\lib\stringify.d.ts.map132900757802236817 0
 90C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\lib\parser.js132900757804225276 0
 85C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\lib\svgo132900757806803262 1
+93C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\svgo\lib\svgo-node.js132900757806293658 0
+114C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\internals\string-pad-webkit-bug.js132900995942502930 0
 117C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-merge-longhand\src\lib\mergeValues.js132900757802726434 0
 98C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\watcher\src\shared132900757802586544 1
 97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\csso\lib\replace\property132900757803945486 1
@@ -2338,7 +2345,7 @@
 102C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\math\trunc.js132900995949960965 0
 94C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\commander\package.json132900757799389034 0
 110C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-normalize-charset\package.json132900757798499726 0
-81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\logo.726d37a8.png132905271867655682 0
+81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\logo.726d37a8.png132906192588956149 0
 101C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-normalize-charset\src132900757797640396 1
 105C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\css-tree\lib\lexer\match-graph.js132900757806543464 0
 106C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\weak-map\index.js132900995919756116 0
@@ -2374,11 +2381,11 @@
 106C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-minify-params\src\index.js132900757797770293 0
 111C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\features\dragndrop.js132900757810050733 0
 92C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\glob-parent\index.js132900765433688770 0
-103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\es.math.cbrt.js132900995892676855 0
-98C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\css-tree\lib\syntax\config132900757807722542 1
-109C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-minify-gradients\package.json132900757798959368 0
 106C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\array\index-of.js132900995916824903 0
 101C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\csso\lib\restructure\index.js132900757804235267 0
+103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\es.math.cbrt.js132900995892676855 0
+109C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\postcss-minify-gradients\package.json132900757798959368 0
+98C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\css-tree\lib\syntax\config132900757807722542 1
 80C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\lmdb\src132900757807372819 1
 115C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\reflect\delete-metadata.js132900995887061223 0
 114C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\stable\string\virtual\fontcolor.js132900995912238297 0
@@ -2997,7 +3004,7 @@
 109C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\features\imports.js132900757812368928 0
 101C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\css\definitions.json132900757801327525 0
 93C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\css\index.js132900757798609643 0
-86C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.f7626f62.css.map132906012794777853 0
+86C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.f7626f62.css.map132906433957914195 0
 98C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\css\syntaxes.json132900757803315978 0
 102C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\css\types.schema.json132900757803515821 0
 93C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\mdn-data\api\index.js132900757797720332 0
@@ -3305,10 +3312,6 @@
 91C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\base-x\src\index.js132900757797239052 0
 96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\is-binary-path\readme.md132900765433838653 0
 97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\is-arrayish\.istanbul.yml132900757799688802 0
-97C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-api\dist\utils.js132900757799838684 0
-103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\regions\AI.js132900757802056959 0
-91C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\is-arrayish\LICENSE132900757798839462 0
-108C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\es.symbol.species.js132900995897043448 0
 85C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.62406edb.js.map132900987115518782 0
 96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\is-arrayish\package.json132900757797059193 0
 126C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\features\input-autocomplete-onoff.js132900757812518810 0
@@ -3400,7 +3403,7 @@
 114C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\htmlnano\docs\versioned_docs\version-1.1.1132900757806223720 1
 111C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\async-iterator\take.js132900995943931821 0
 104C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\string\starts-with.js132900995941593642 0
-85C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.e37f48ea.js.map132906163728356458 0
+85C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.e37f48ea.js.map132907097404045939 0
 114C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\htmlnano\docs\versioned_docs\version-2.0.0132900757806253689 1
 129C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\htmlnano\docs\versioned_docs\version-2.0.0\040-presets.md132900757805923945 0
 103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\regions\BA.js132900757805184521 0
@@ -4663,7 +4666,7 @@
 105C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\instance\flat.js132900995911568820 0
 108C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\function\un-this.js132900995950810305 0
 111C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\esnext.iterator.drop.js132900995900668937 0
-84C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\favicon.8b2f57bf.png132905271867675665 0
+84C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\favicon.8b2f57bf.png132906192589036089 0
 112C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\esnext.iterator.every.js132900995900678933 0
 115C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\modules\esnext.iterator.for-each.js132900995901088615 0
 103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\string\trim-right.js132900995948388351 0
@@ -4818,7 +4821,6 @@
 108C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\internals\collection-weak.js132900995883511094 0
 103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\internals\collection.js132900995883531075 0
 106C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\internals\composite-key.js132900995883541070 0
-99C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\string\substr.js132900995943292324 0
 135C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\dist.js132900757803305983 0
 120C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\internals\copy-constructor-properties.js132900995884660198 0
 118C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\string\virtual\code-points.js132900995882929610 0
@@ -5223,7 +5225,6 @@
 113C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\function\has-instance.js132900995915265936 0
 115C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\hash\parcel-hash.linux-x64-gnu.node132900757804215284 0
 106C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\function\index.js132900995919316457 0
-112C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\function\is-callable.js132900995920925222 0
 105C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\function\name.js132900995930108059 0
 116C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\dom-collections\for-each.js132900995912558046 0
 102C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\features\date\index.js132900995919146591 0
@@ -5368,6 +5369,7 @@
 102C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\string\pad-start.js132900995934124928 0
 104C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\string\replace-all.js132900995937542268 0
 99C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\string\search.js132900995938894293 0
+99C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\string\substr.js132900995943292324 0
 121C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\transformer-image\src\ImageTransformer.js132900757798699582 0
 96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\core-js\es\string\sup.js132900995943602077 0
 131C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\caniuse-lite\data\features\domfocusin-domfocusout-events.js132900757809990778 0
@@ -5878,7 +5880,7 @@
 100C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\commander\typings\index.d.ts132900757800947819 0
 147C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-module\main.js132900757805764070 0
 91C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\colord\CHANGELOG.md132900757801607306 0
-74C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.html132906124552733821 0
+74C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.html132906192588946159 0
 100C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\transformer-sass\src132900765441906230 1
 91C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\colord\helpers.d.ts132900757803915516 0
 144C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\source-map\parcel_sourcemap_node\artifacts\index.darwin-x64.node132900757804804821 0
@@ -6603,7 +6605,7 @@
 103C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@swc\helpers\lib\_instanceof.js132900757804075386 0
 111C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@swc\helpers\lib\_is_native_function.js132900757804285222 0
 120C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@swc\helpers\lib\_is_native_reflect_construct.js132900757804375152 0
-82C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.f7626f62.css132906012794777853 0
+82C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\index.f7626f62.css132907274147088235 0
 122C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@swc\helpers\lib\_iterable_to_array_limit_loose.js132900757804555012 0
 96C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@swc\helpers\lib\_jsx.js132900757804614965 0
 105C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\@parcel\core\src\applyRuntimes.js132900757802386698 0
@@ -7234,5 +7236,5 @@
 87C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\.bin\semver.cmd132900757822246093 0
 81C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\.bin\svgo132900757822246093 0
 85C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\node_modules\.bin\svgo.cmd132900757822236098 0
-82C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\icons.21bad73c.svg132905271867625706 0
-82C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\icons.dfd7a6db.svg132905271867625706 0
+82C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\icons.21bad73c.svg132906192589076052 0
+82C:\Training\The-Complete-JavaScript-Course-2022\18-forkify\dist\icons.dfd7a6db.svg132906192588946159 0

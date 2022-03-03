@@ -81,5 +81,5 @@ const init = function () {
 };
 init();
 
-// 298 Implementing Pagination - Part 2
-console.log(`---------- 298 Implementing Pagination - Part 2 ----------`);
+// 299 Project Planning II
+console.log(`---------- 299 Project Planning II ----------`);
