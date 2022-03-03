@@ -81,5 +81,5 @@ const init = function () {
 };
 init();
 
-// 299 Project Planning II
-console.log(`---------- 299 Project Planning II ----------`);
+// 300 Updating Recipe Servings
+console.log(`---------- 300 Updating Recipe Servings ----------`);
