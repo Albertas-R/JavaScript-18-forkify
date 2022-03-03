@@ -95,5 +95,5 @@ const init = function () {
 };
 init();
 
-// 301 Developing a DOM Updating Algorithm
-console.log(`---------- 301 Developing a DOM Updating Algorithm ----------`);
+// 302 Implementing Bookmarks - Part 1
+console.log(`---------- 302 Implementing Bookmarks - Part 1 ----------`);
