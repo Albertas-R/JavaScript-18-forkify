@@ -120,5 +120,5 @@ const init = function () {
 };
 init();
 
-// 304 Storing Bookmarks With localStorage
-console.log(`---------- 304 Storing Bookmarks With localStorage ----------`);
+// 305 Project Planning III
+console.log(`---------- 305 Project Planning III ----------`);
