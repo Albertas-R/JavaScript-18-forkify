@@ -120,5 +120,5 @@ const init = function () {
 };
 init();
 
-// 305 Project Planning III
-console.log(`---------- 305 Project Planning III ----------`);
+// 306 Uploading a New Recipe - Part 1
+console.log(`---------- 306 Uploading a New Recipe - Part 1 ----------`);
