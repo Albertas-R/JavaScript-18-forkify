@@ -156,5 +156,5 @@ const init = function () {
 };
 init();
 
-// 308 Uploading a New Recipe - Part 3
-console.log(`---------- 308 Uploading a New Recipe - Part 3 ----------`);
+// 309 Wrapping Up_ Final Considerations
+console.log(`---------- 309 Wrapping Up_ Final Considerations ----------`);
