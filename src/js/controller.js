@@ -112,5 +112,5 @@ const init = function () {
 };
 init();
 
-// 303 Implementing Bookmarks - Part 2
-console.log(`---------- 303 Implementing Bookmarks - Part 2 ----------`);
+// 304 Storing Bookmarks With localStorage
+console.log(`---------- 304 Storing Bookmarks With localStorage ----------`);
